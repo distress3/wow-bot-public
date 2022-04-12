@@ -1,0 +1,20 @@
+{
+  "name": "wow-bot-public",
+  "version": "1.0.0",
+  "description": "A discord bot that responds with a random clip of owen wilson saying wow.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "discord",
+    "bot"
+  ],
+  "author": "Mats Joel Samuelsson",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "eris": "^0.16.1"
+  }
+}
